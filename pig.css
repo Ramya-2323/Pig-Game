@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
-
 * {
   margin: 0;
   padding: 0;
@@ -21,8 +19,6 @@ body {
   align-items: center;
   justify-content: center;
 }
-
-/* LAYOUT */
 main {
   position: relative;
   width: 100rem;
@@ -44,8 +40,6 @@ main {
   align-items: center;
   transition: all 0.75s;
 }
-
-/* ELEMENTS */
 .name {
   position: relative;
   font-size: 4rem;
@@ -98,8 +92,6 @@ main {
 .current-score {
   font-size: 3.5rem;
 }
-
-/* ABSOLUTE POSITIONED ELEMENTS */
 .btn {
   position: absolute;
   left: 50%;
